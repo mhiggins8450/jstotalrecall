@@ -1,3 +1,4 @@
+// Section A
 /*
 1. How do we assign a value to a variable?
 With the assignment operator (=)
@@ -20,3 +21,27 @@ about how you're going to solve a problem vs
 actually typing in code to solve it?
 80/20 - 80% thinking 20% typing
 */
+
+// Section B
+
+// 1. Create a variable called firstVariable
+//         let firstVariable;
+// // 2. Assign it the value of the string "Hello World"
+//         firstVariable = 'Hello World';
+// // 3. Change the value of this variable to some number
+//         firstVariable = 27
+// // 4. Store the value of firstVariable in a new variable 
+// // called secondVariable
+//         let secondVariable = firstVariable
+// // 5. Change the value of secondVariable to any string
+//         secondVariable = 'any string'
+// 6. What is the value of firstVariable?
+        //The value of firstVariable is 27
+// 7. Create a variable called yourNameand set it equal 
+// to your name as a string. Then, write an expression 
+// that takes the string "Hello, my name is " and the 
+// variable yourName so that it returns a new string with 
+// them concatenated.
+        // let yourName = 'Michael'
+        // let hello = 'Hello, my name is ' + yourName + '.';
+        // console.log (hello)
