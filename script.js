@@ -1,5 +1,5 @@
 // I. Variables & Datatypes
-// Section A
+// Section A - Q + A
 /*
 1. How do we assign a value to a variable?
 With the assignment operator (=)
@@ -23,7 +23,7 @@ actually typing in code to solve it?
 80/20 - 80% thinking 20% typing
 */
 
-// Section B
+// Section B - Strings
 
 // 1. Create a variable called firstVariable
 //         let firstVariable;
@@ -47,13 +47,13 @@ actually typing in code to solve it?
         // let hello = 'Hello, my name is ' + yourName + '.';
         // console.log (hello)
 
-// Section C
+// Section C - Booleans
 
-  const a = 4;
-  const b = 53;
-  const c = 57;
-  const d = 16;
-  const e = 'Kevin';
+//   const a = 4;
+//   const b = 53;
+//   const c = 57;
+//   const d = 16;
+//   const e = 'Kevin';
 
 //   console.log(a < b);
 //   console.log(c > d);
@@ -71,3 +71,25 @@ actually typing in code to solve it?
   // note: the answer is a simple arithmetic 
   //equation, not something "weird"
 //   console.log(48 == '48');
+
+// Section D - The Farm
+
+// 1. Declare a variable animal. Set it to be 
+//either "cow" or something else
+// let animal = "cow";
+// 2. Write code that will print out "mooooo" 
+//if the it is equal to cow
+// if (animal === "cow") {
+//     console.log("mooooo");
+//   }
+// 3. Change your code so that if the variable 
+//animal is anything other than a cow, 
+//it will print "Hey! You're not a cow."
+// if (animal === "cow") {
+//     console.log("mooooo");
+//   } else {
+//     console.log("Hey! You're not a cow.");
+//   }
+
+
+  
