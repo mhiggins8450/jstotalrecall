@@ -91,5 +91,17 @@ actually typing in code to solve it?
 //     console.log("Hey! You're not a cow.");
 //   }
 
-
+// Section E - Driver's Ed
   
+// 1. Make a variable that holds a person's age;
+//be semantic.
+// let driverAge = 12;
+// 2. Write code that will print out "Here are the keys!", 
+//if the age is 16 years or older, or, if the age is 
+//younger than 16, a message should print 
+//"Sorry, you're too young."
+// if (driverAge >= 16) {
+//         console.log("Heree are the keys!");
+//       } else {
+//         console.log("Sorry, you're too young");
+//       }
